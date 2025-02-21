@@ -1,16 +1,24 @@
-### Hi there 👋
+# Olá, eu sou Victor Souza!
 
-<!--
-**euosouza/euosouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim  
+🧑‍💻 Sou um desenvolvedor frontend com paixão por tecnologia, inovação e aprendizado constante.  
+📍 Atualmente focado em aprimorar minhas habilidades em desenvolvimento web e criação de interfaces modernas.  
+🎯 Meu objetivo é construir aplicações performáticas, acessíveis e intuitivas, combinando código limpo e boas práticas. 
 
-Here are some ideas to get you started:
+- 🌐 Trabalho com HTML5, CSS3, JavaScript (ES6+), Typescript, Vue, React, Angular, Tailwind
+- ⚛️ Experiência em Vue, Nuxtjs, Angular
+- 📱 Desenvolvimento de aplicações responsivas
+- 🔧 Experiência com controle de versão usando Git
+- 📊 Integração de APIs RESTful
+- 💻 Conhecimento em UX/UI para criar interfaces intuitivas
+- 🌟 Buscando sempre aprender e compartilhar conhecimento com a comunidade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📬 Contato
+Se você está interessado em colaborar em projetos interessantes ou apenas quer bater um papo sobre tecnologia, sinta-se à vontade para me contatar:
+
+📧 **Email:** euosouza@gmail.com  
+👔 **LinkedIn:** [Victor Souza]([link do LinkedIn](https://www.linkedin.com/in/victor-souza-costa/))
+
+Vamos construir algo incrível juntos! ✨
